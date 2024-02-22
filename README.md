@@ -36,7 +36,7 @@ MILE은 make it look easy의 줄임말로, 글쓰기를 더 쉽고, 편안하게
 | :---: | :---: |
 
 
-<h2>👩🏻‍💻🧑🏻‍💻 MILE Web Developers </h2>
+<h2>👨‍👩‍👧‍👧 MILE Web Developers </h2>
 <br/>
 
 <div align="center">
